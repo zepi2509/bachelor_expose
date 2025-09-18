@@ -1,6 +1,6 @@
 = Zeit- und Projektplan
 
-Zeitraum: 19.09.2025–19.12.2025 (KW 38–51).
+Zeitraum: 24.09.2025–24.12.2025 (KW 39–52).
 Vorgehen: iterativ-inkrementell mit wöchentlichen Abstimmungen.
 
 == Arbeitspakete
@@ -21,7 +21,7 @@ Vorgehen: iterativ-inkrementell mit wöchentlichen Abstimmungen.
   Abnahme: Architektur-Review abgeschlossen.
 
 - WP4 Prototyp-Integration (KW 42–45, 3 Wochen)
-  Ziel: LLM in \@rtus-Backend integrieren und ersten End-to-End-Durchstich
+  Ziel: LLM in \@rtus-Backend integrieren und einen ersten End-to-End-Durchstich
   realisieren.
   Ergebnis: Lauffähiger E2E-Prototyp mit minimaler UI/UX (M3).
   Abnahme: Demo mit realistischen Testdaten.

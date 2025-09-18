@@ -12,7 +12,7 @@
   + Überblick über das VBS \@rtus
   + Ergebnisse der vorangegangenen Machbarkeitsstudie
   + Grundlagen zu LLMs
-  + Kontext-basierte Generierung
+  + Kontextbasierte Generierung
   + Datenformate
 
 + Analyse und Anforderungsdefinition
